@@ -20,5 +20,7 @@ Git | Blender | Arduino | GoDot | Shopify | Liquid | mySQL |
 
 ### 💬 Ask me anything
 - 📫 How to reach me: ... curtischatdev@gmail.com
+- 🎨 Hobbies: Pixel Art (Aseprite), Digital Art (Procreate), Photography (Fujifilm)
 - ⚡ Fun fact: ... Swam with a whale shark in Cebu 🐳
+-  
 
