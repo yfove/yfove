@@ -19,7 +19,7 @@ Git | Blender | Arduino | GoDot | Shopify | Liquid | mySQL |
 - 👯 I’m looking to collaborate on ... indie games 👾 (godot, unity) 
 
 ### 💬 Ask me anything
-- 📫 How to reach me: ... gmmkpro@gmail.com
+- 📫 How to reach me: ... 
 - 🎨 Hobbies: Pixel Art (Aseprite), Digital Art (Procreate), Photography (Fujifilm)
 - ⚡ Fun fact: ... Swam with a whale shark in Cebu 🐳
 -  
