@@ -10,7 +10,7 @@
 
 ```
 HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Python | Django | Firebase | NodeJs | 
-Git | Blender | Arduino | GoDot | Shopify | Liquid | mySQL |
+Git | Blender | Arduino | GoDot | Shopify | mySQL |
 ```
 
 
