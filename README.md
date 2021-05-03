@@ -14,7 +14,7 @@ Git | Blender | Arduino | GoDot | Shopify | Liquid | mySQL |
 ```
 
 
-- 🔭 I’m currently working on ... Frontend development at Rove Concepts
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... TypeScript, arduino robotics
 - 👯 I’m looking to collaborate on ... indie games 👾 (godot, unity) 
 
