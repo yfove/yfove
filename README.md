@@ -10,12 +10,12 @@
 
 ```
 HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Python | Django | Firebase | NodeJs | 
-Git | Blender | Arduino | GoDot | Shopify | mySQL |
+Git | Blender | Arduino | GoDot | Shopify | SQL |
 ```
 
 
 - 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... TypeScript, arduino robotics
+- 🌱 I’m currently learning ... TypeScript, Vue.js arduino robotics
 - 👯 I’m looking to collaborate on ... indie games 👾 (godot, unity) 
 
 ### 💬 Ask me anything
