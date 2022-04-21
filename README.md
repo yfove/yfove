@@ -14,13 +14,11 @@ Git | Blender | Arduino | GoDot | Shopify | SQL |
 ```
 
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... TypeScript, Vue.js arduino robotics
-- 👯 I’m looking to collaborate on ... indie games 👾 (godot, unity) 
+- 🔭 I’m currently working from home
+- 🌱 I’m currently learning ... TypeScript, next.js
+- 👯 I’m looking to collaborate on ... indie games 👾 (godot, unity, pyren) 
 
 ### 💬 Ask me anything
-- 📫 How to reach me: ... 
 - 🎨 Hobbies: Pixel Art (Aseprite), Digital Art (Procreate), Photography (Fujifilm)
-- ⚡ Fun fact: ... Swam with a whale shark in Cebu 🐳
 -  
 
