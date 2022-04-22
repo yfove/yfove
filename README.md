@@ -9,8 +9,7 @@
 ### My Toolkit
 
 ```
-HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Python | Django | Firebase | NodeJs | 
-Git | Blender | Arduino | GoDot | Shopify | SQL |
+HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Firebase |
 ```
 
 
