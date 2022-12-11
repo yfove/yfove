@@ -9,15 +9,13 @@
 ### My Toolkit
 
 ```
-HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Firebase |
+HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Firebase | Next.js | Chakra
 ```
 
 
 - 🔭 I’m currently working from home
-- 🌱 I’m currently learning ... TypeScript, next.js
-- 👯 I’m looking to collaborate on ... indie games 👾 (godot, unity, pyren) 
+- 🌱 I’m currently learning ... TypeScript, next.js, disco diffusion
+- 👯 I’m looking to collaborate on ... indie games 👾 (godot, unity, pyren, gbstudio) 
 
-### 💬 Ask me anything
-- 🎨 Hobbies: Pixel Art (Aseprite), Digital Art (Procreate), Photography (Fujifilm)
--  
+
 
