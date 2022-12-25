@@ -14,7 +14,7 @@ HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Firebase | Next.js | Chakra
 
 
 - 🔭 I’m currently working from home
-- 🌱 I’m currently learning ... TypeScript, next.js, disco diffusion
+- 🌱 I’m currently learning ... disco diffusion, stable diffusion
 - 👯 I’m looking to collaborate on ... indie games 👾 (godot, unity, pyren, gbstudio) 
 
 
