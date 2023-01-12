@@ -9,7 +9,7 @@
 ### My Toolkit
 
 ```
-HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Firebase | Next.js | Chakra
+HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Python | Firebase | Chakra.js | tailwind | Astro 
 ```
 
 
