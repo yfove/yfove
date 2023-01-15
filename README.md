@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Curtis!
+### Hi there 👋!
 
 ### Full-Stack Developer
 
