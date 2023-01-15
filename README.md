@@ -20,4 +20,9 @@ HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Python | Firebase | Chakra.j
 
 
 ### 💻 Tech Stack:
-CSS3 HTML5 JavaScript LaTeX Markdown Python Shell Script TypeScript C++ GraphQL Java AWS Azure Firebase DigitalOcean Google Cloud Heroku Netlify Anaconda Angular Chakra Bootstrap Chart.js Django DjangoREST Express.js Flask Insomnia jQuery JWT NPM Next JS NodeJS React React Native React Router Redux Semantic UI React Socket.io Spring Styled Components Svelte TailwindCSS Threejs Thymeleaf Vue.js Webpack Yarn Apache Jenkins Nginx AmazonDynamoDB MariaDB MicrosoftSQLServer MongoDB MySQL Neo4J Postgres Redis SQLite Adobe Photoshop Canva NumPy Pandas Plotly PyTorch scikit-learn Babel Gradle ESLint Docker ElasticSearch Jira Kubernetes Notion Ansible Postman Swagger
+![image](https://user-images.githubusercontent.com/50383077/212558770-a61aa2ba-112c-42f7-9da8-92eef2f5a061.png)
+![image](https://user-images.githubusercontent.com/50383077/212558771-8fcbbea9-75da-4f42-aa18-31d5e62f61db.png)
+![image](https://user-images.githubusercontent.com/50383077/212558774-7a30c538-2aad-4dc0-a670-bf7fc3857757.png)
+![image](https://user-images.githubusercontent.com/50383077/212558778-fd939dd2-e2a4-4178-a79e-4060fbc7e49c.png)
+![image](https://user-images.githubusercontent.com/50383077/212558788-2a603362-5992-4e26-b348-79ec15b2a094.png)
+![image](https://user-images.githubusercontent.com/50383077/212558792-bf15cd51-fa79-4173-8b1f-047dd90d3326.png)
