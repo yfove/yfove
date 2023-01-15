@@ -19,3 +19,5 @@ HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Python | Firebase | Chakra.j
 
 
 
+### 💻 Tech Stack:
+CSS3 HTML5 JavaScript LaTeX Markdown Python Shell Script TypeScript C++ GraphQL Java AWS Azure Firebase DigitalOcean Google Cloud Heroku Netlify Anaconda Angular Chakra Bootstrap Chart.js Django DjangoREST Express.js Flask Insomnia jQuery JWT NPM Next JS NodeJS React React Native React Router Redux Semantic UI React Socket.io Spring Styled Components Svelte TailwindCSS Threejs Thymeleaf Vue.js Webpack Yarn Apache Jenkins Nginx AmazonDynamoDB MariaDB MicrosoftSQLServer MongoDB MySQL Neo4J Postgres Redis SQLite Adobe Photoshop Canva NumPy Pandas Plotly PyTorch scikit-learn Babel Gradle ESLint Docker ElasticSearch Jira Kubernetes Notion Ansible Postman Swagger
