@@ -14,8 +14,8 @@ HTML5 | CSS3 | JavaScript | REACT | Ruby on Rails | Python | Firebase | Chakra.j
 
 
 - 🔭 I’m currently working from home
-- 🌱 I’m currently learning ... solid.js and svelte.js
-- 🤝 I’m looking to collaborate on ... indie games 👾 (godot, unity, pyren, gbstudio), disco diffusion, stable diffusion
+- 🌱 I’m currently learning ... solid.js, svelte.js, next.js
+- 🤝 I’m looking to collaborate on ... passion projects/indie games 👾 (godot, unity, pyren, gbstudio)
 
 
 
